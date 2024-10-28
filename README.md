@@ -1,6 +1,6 @@
 # Automated Sokoban Solver
 
-An automated Sokoban puzzle solver built in Python, designed to find solutions for complex Sokoban levels using advanced search algorithms. This project leverages algorithms such as Breadth-First Search (BFS), Greedy Search, and A* Search to efficiently navigate through puzzle layouts and find the optimal path to victory.
+An automated Sokoban puzzle solver built in Python, designed to find solutions for complex Sokoban levels using advanced search algorithms. This project leverages algorithms such as Breadth-First Search (BFS), Depth-First Search (DFS), Greedy Search, and A* Search to efficiently navigate through puzzle layouts and find the optimal path to victory.
 
 ## Table of Contents
 
